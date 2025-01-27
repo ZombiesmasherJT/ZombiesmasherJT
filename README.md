@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A second year student from Brighton university</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zombiesmasherjt&label=Profile%20views&color=0e75b6&style=flat" alt="zombiesmasherjt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zombiesmasherjt" alt="zombiesmasherjt" /></a> </p>
-
 - working on projects in my second year of computer sceince
 - 🔭 I’m currently working on [FunctionalProject](https://github.com/ZombiesmasherJT/FunctionalProject)
 - 📫 How to reach me **joshua.tite@me.com**
