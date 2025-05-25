@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">A second year student from Brighton university</h3>
+<h3 align="center">im a 3rd year student at the university of brighton</h3>
 
 - working on projects in my second year of computer sceince
-- 🔭 I’m currently working on [FunctionalProject](https://github.com/ZombiesmasherJT/FunctionalProject)
+- 🔭 I’m currently working on [FunctionalProject](https://github.com/ZombiesmasherJT/WanderStay-backend)
 - 📫 How to reach me **joshua.tite@me.com**
-- I would love to collaborate and join open source projects once i have skills and applicable knowledge
+- I would love to collaborate and join open source projects once I have skills and applicable knowledge
 </p>
 
 
