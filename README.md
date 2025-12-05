@@ -1,22 +1,36 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
-<h3 align="center">im a recent graduate of the university of brighton</h3>
+### Hi, I'm Josh 👋  
+**Computer Science Graduate | Full-Stack Developer**
 
-- Projects I'm working on right now
-- 🔭 I’m currently working on [Portfolio](https://github.com/ZombiesmasherJT/portfolio)
-- 📫 How to reach me **joshua.tite@me.com**
-- I would love to collaborate and join open source projects once I have skills and applicable knowledge
-</p>
+I'm a recent Computer Science graduate from the University of Brighton, focused on building modern full-stack applications with clean architecture and practical, real-world use cases.
 
+---
 
+## 🚀 Tech Stack
+**Frontend:** React, JavaScript, HTML5, CSS3  
+**Backend:** Node.js, Express.js  
+**Databases:** MySQL, MongoDB  
+**Other:** Git, REST APIs, Docker (learning)
 
+---
 
+## 📌 Projects I'm Working On
+- **Portfolio Website** – Personal site showcasing my projects, certifications, and case studies.  
+- **Hotel Booking & Management System** – Full-stack application with React, Node.js, and MySQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
+## 🌱 Learning Goals
+- TypeScript  
+- Cloud fundamentals (AWS / Azure)  
+- Building scalable backend architectures
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zombiesmasherjt&show_icons=true&locale=en&layout=compact" alt="zombiesmasherjt" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zombiesmasherjt&show_icons=true&locale=en" alt="zombiesmasherjt" /></p>
+## 📫 Contact
+- **Email:** joshua.tite@me.com  
+- **Website:** https://joshtgt.com  
+- **LinkedIn:** linkedin.com/in/joshutite  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zombiesmasherjt&" alt="zombiesmasherjt" /></p>
+---
+
+### Thanks for visiting my profile!
