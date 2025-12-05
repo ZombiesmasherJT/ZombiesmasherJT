@@ -15,7 +15,7 @@ I'm a recent Computer Science graduate from the University of Brighton, focused 
 
 ## 📌 Projects I'm Working On
 - **Portfolio Website** – Personal site showcasing my projects, certifications, and case studies.  
-- **Hotel Booking & Management System** – Full-stack application with React, Node.js, and MySQL.
+- **NeigbourNetk** – Full-stack application with React, Node.js, and MySQL.
 
 ---
 
