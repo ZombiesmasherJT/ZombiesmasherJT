@@ -32,5 +32,3 @@ I'm a recent Computer Science graduate from the University of Brighton, focused 
 - **LinkedIn:** linkedin.com/in/joshutite  
 
 ---
-
-### Thanks for visiting my profile!
