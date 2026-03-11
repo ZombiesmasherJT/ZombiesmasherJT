@@ -6,9 +6,9 @@ I'm a recent Computer Science graduate from the University of Brighton, focused 
 ---
 
 ## 🚀 Tech Stack
-**Frontend:** React, JavaScript, HTML5, CSS3  
+**Frontend:** React, JavaScript, HTML5, CSS3 CORS 
 **Backend:** Node.js, Express.js  
-**Databases:** MySQL, MongoDB  
+**Databases:** MySQL, MongoDB, Supabase  
 **Other:** Git, REST APIs, Docker (learning)
 
 ---
@@ -16,6 +16,7 @@ I'm a recent Computer Science graduate from the University of Brighton, focused 
 ## 📌 Projects I'm Working On
 - **Portfolio Website** – Personal site showcasing my projects, certifications, and case studies.  
 - **NeigbourNetk** – Full-stack application with React, Node.js, and MySQL.
+- **AI phone assistant**
 
 ---
 
